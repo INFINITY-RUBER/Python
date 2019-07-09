@@ -1,10 +1,10 @@
 # The Algorithms - Python <!-- [![Build Status](https://travis-ci.org/TheAlgorithms/Python.svg)](https://travis-ci.org/TheAlgorithms/Python) -->
 
-### All algorithms implemented in Python (for education)
+### Todos los algoritmos implementados en Python (para la educación)
 
-These implementations are for demonstration purposes. They are less efficient than the implementations in the Python standard library.
+Estas implementaciones son para fines de demostración. Son menos eficientes que las implementaciones en la biblioteca estándar de Python.
 
-## Sorting Algorithms
+## Clasificación de los algoritmos
 
 
 ### Bubble Sort
